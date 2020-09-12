@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leezhien.github.io</id>
     <title>leezhien</title>
-    <updated>2020-09-12T12:27:47.694Z</updated>
+    <updated>2020-09-12T12:33:44.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leezhien.github.io"/>
     <link rel="self" href="https://leezhien.github.io/atom.xml"/>
@@ -10,4 +10,20 @@
     <logo>https://leezhien.github.io/images/avatar.png</logo>
     <icon>https://leezhien.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, leezhien</rights>
+    <entry>
+        <title type="html"><![CDATA[java web]]></title>
+        <id>https://leezhien.github.io/post/java-web/</id>
+        <link href="https://leezhien.github.io/post/java-web/">
+        </link>
+        <updated>2020-09-12T12:32:57.000Z</updated>
+        <summary type="html"><![CDATA[<ol>
+<li></li>
+</ol>
+]]></summary>
+        <content type="html"><![CDATA[<ol>
+<li></li>
+</ol>
+<!-- more -->
+]]></content>
+    </entry>
 </feed>
